@@ -1,0 +1,5 @@
+#test1/secrets.yaml
+#**/tigers.yaml
+#!test1/secrets.yaml
+#*/.yaml
+test1/secrets.yaml
